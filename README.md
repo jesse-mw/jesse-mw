@@ -1,4 +1,4 @@
-![forthebadge](https://badgen.net/badge/pronouns/they%20%2F%20them/green)
+![forthebadge](https://badgen.net/badge/pronouns/they%20%2F%20them/cyan)
 
 1. 💭 Stuff I'm working on ...  
 &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.explodingkittens.com/" target="_blank">Exploding Kittens</a> as a Full Stack Engineer  

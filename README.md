@@ -1,4 +1,4 @@
-😄 Pronouns: they/them
+![forthebadge](https://badgen.net/badge/pronouns/they%20%2F%20them/green)
 
 1. 💭 Stuff I'm working on ...  
 &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.explodingkittens.com/" target="_blank">Exploding Kittens</a> as a Full Stack Engineer  
@@ -14,5 +14,3 @@
 3. 👯 I’m looking to collaborate on ...  
 &nbsp;&nbsp;&nbsp;&nbsp;- Worldwide impact stories - none of that "my POS system will..." and more of that "we're 3D printing entire neighborhoods".  
 &nbsp;&nbsp;&nbsp;&nbsp;- Quick calls to consult on success. (message me on <a href="https://www.instagram.com/success.fish/" target="_blank">Instagram @ success.fish</a> - I know it's empty). 
-
-[![forthebadge](https://badgen.net/badge/pronouns/they%20%2F%20them/green)]

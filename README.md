@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 😄 Pronouns: they/them
+😄 Pronouns: they/them
 
 1. 💭 Stuff I'm working on ...  
 &nbsp;&nbsp;&nbsp;&nbsp;- [Exploding Kittens](https://www.explodingkittens.com/) as a Full Stack Engineer  

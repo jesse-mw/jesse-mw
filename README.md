@@ -1,8 +1,8 @@
 😄 Pronouns: they/them
 
 1. 💭 Stuff I'm working on ...  
-&nbsp;&nbsp;&nbsp;&nbsp;- [Exploding Kittens](https://www.explodingkittens.com/) as a Full Stack Engineer  
-&nbsp;&nbsp;&nbsp;&nbsp;- [Success Fish](https://success.fish/) (coming soon) as a Founder  
+&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.explodingkittens.com/" target="_blank">Exploding Kittens</a> as a Full Stack Engineer  
+&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://success.fish/" target="_blank">Success Fish</a> (coming soon) as a Founder  
 &nbsp;&nbsp;&nbsp;&nbsp;- (no link yet, secret-ish project) as an Author  
 
   
@@ -13,6 +13,6 @@
   
 3. 👯 I’m looking to collaborate on ...  
 &nbsp;&nbsp;&nbsp;&nbsp;- Worldwide impact stories - none of that "my POS system will..." and more of that "we're 3D printing entire neighborhoods".  
-&nbsp;&nbsp;&nbsp;&nbsp;- Quick calls to consult on success. (message me on [Instagram @ success.fish](https://www.instagram.com/success.fish/) - I know it's empty). 
+&nbsp;&nbsp;&nbsp;&nbsp;- Quick calls to consult on success. (message me on <a href="https://www.instagram.com/success.fish/" target="_blank">Instagram @ success.fish</a> - I know it's empty). 
 
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](success.fish) 
+[![forthebadge](https://badgen.net/badge/pronouns/they%20%2F%20them/green)]

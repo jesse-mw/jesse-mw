@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile View Counter](https://komarev.com/ghpvc/?username=jessewarren-aa)
+![Profile View Counter since Q4 2021](https://komarev.com/ghpvc/?username=jessewarren-aa)
 
 <!--
 **jessewarren-aa/jessewarren-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

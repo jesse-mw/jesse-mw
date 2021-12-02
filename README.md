@@ -1,5 +1,5 @@
 ![forthebadge](https://badgen.net/badge/pronouns/they%20%2F%20them/cyan)
-![forthebadge](https://badgen.net/badge/icon/88.24%25/red?icon=bitcoin&label)
+![forthebadge](https://badgen.net/badge/icon/62.6%25/red?icon=bitcoin&label)
 
 1. 💭 Stuff I'm working on ...  
 &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.explodingkittens.com/" target="_blank">Exploding Kittens</a> as a Full Stack Engineer  

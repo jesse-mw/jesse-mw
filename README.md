@@ -1,5 +1,4 @@
 1. 💭 Stuff I'm working on ...  
-&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.explodingkittens.com/" target="_blank">Exploding Kittens</a> as a Full Stack Engineer  
 &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://success.fish/" target="_blank">Success Fish</a> as a Founder  
 &nbsp;&nbsp;&nbsp;&nbsp;- (no link yet, secret-ish project) as an Author  
 

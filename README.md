@@ -1,6 +1,6 @@
 1. 💭 Stuff I'm working on ...  
-&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://success.fish/" target="_blank">Success Fish</a> as a Founder  
-&nbsp;&nbsp;&nbsp;&nbsp;- (no link yet, secret-ish project) as an Author  
+&nbsp;&nbsp;&nbsp;&nbsp;- Being a founding engineer  
+&nbsp;&nbsp;&nbsp;&nbsp;- Writing a novel  
 
   
 2. 💡 Things I'm usually thinking about ...  

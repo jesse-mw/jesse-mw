@@ -1,5 +1,7 @@
-![branded header image](./header.jpg "Hey there friend!")  
-I'm a full-stack engineer who leans heavily towards creativity and co-creating joy.  
+Hey folx 👋
+
+I'm Jesse, a full-stack engineer who leans heavily towards creativity and co-creating joy.  
+
 I've worked in remote and autonomous roles for the last five years.  
 I'm growing as a lead engineer, with a tech stack that aims at simple: NextJS & Supabase  
   
@@ -10,3 +12,5 @@ Stuff I'm working on ...
 I believe less is more - I value an intentionally slow pace.  
   
 Humans first.
+
+![branded header image](./header.jpg "Hey there friend!")  

@@ -1,6 +1,6 @@
 Hey folx 👋
 
-I'm Jesse, a full-stack engineer (and consultant) who leans heavily towards creativity and co-creating joy.
+I'm Jesse, a full-stack engineer who leans heavily towards creativity and co-creating joy.
 
 With five years in remote and autonomous roles, I've grown as a lead engineer with a tech stack that's simple yet powerful: NextJS & Supabase/PostgreSQL.
 

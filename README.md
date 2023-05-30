@@ -6,7 +6,7 @@ With five years in remote and autonomous roles, I've grown as a lead engineer wi
 
 Currently, I'm...
   - A founding engineer working to solve a wide-scale financial problem.
-  - A author telling a sci-fi story about a revolutionary's past encroaching upon his present.
+  - An author telling a sci-fi story about a revolutionary's past encroaching upon his present.
 
 I also offer...
   - One-on-one coaching for newer-to-the-field software engineers. 

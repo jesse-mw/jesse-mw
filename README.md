@@ -1,8 +1,8 @@
 Hey folx 👋
 
 I'm Jesse, a full-stack engineer/architect  
-  who leans heavily towards creativity and co-creating joy  
-  with a tech stack that's simple yet powerful: NextJS & Supabase/PostgreSQL.
+&nbsp;&nbsp;who leans heavily towards creativity and co-creating joy  
+&nbsp;&nbsp;with a tech stack that's simple yet powerful: NextJS & Supabase/PostgreSQL.
 
 Currently, I'm...
  - An architectural engineer helping rebuild an author's product.
